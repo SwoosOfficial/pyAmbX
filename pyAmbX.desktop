@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version = 1.0
+Type =		Application
+Name =		pyAmbX
+GenericName =	AmbX tool
+Comment =	Tool for controlling the AmbX system
+Comment[de] =	Tool zur Kontrolle des AmbX Systems
+
+Icon =		<path to>/pyAMBX/pyAmbX_icon.png
+Categories =	Utility;AudioVideo;
+
+Terminal =	false
+Exec =		<path to>/pyAMBX/pyambx/bin/python <path to>/pyAMBX/pyAMBX-GUI.py
+StartupNotify =	false
